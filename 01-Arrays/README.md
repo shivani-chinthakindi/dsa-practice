@@ -98,18 +98,18 @@ Arrays/
 ## Progress Tracker
 
 ### Basics
-- [ ] PrintArray
-- [ ] SumOfElements
-- [ ] AverageOfArray
-- [ ] MaximumElement
-- [ ] MinimumElement
-- [ ] CountEvenOdd
-- [ ] CountPositiveNegative
-- [ ] ReverseArray
-- [ ] CopyArray
-- [ ] SecondLargest
-- [ ] CheckSorted
-- [ ] FrequencyOfElement
+- [x] PrintArray
+- [x] SumOfElements
+- [x] AverageOfArray
+- [x] MaximumElement
+- [x] MinimumElement
+- [x] CountEvenOdd
+- [x] CountPositiveNegative
+- [x] ReverseArray
+- [x] CopyArray
+- [x] SecondLargest
+- [x] CheckSorted
+- [x] FrequencyOfElement
 
 ### Searching
 - [ ] LinearSearch
