@@ -18,20 +18,18 @@ This folder contains beginner-level array programs implemented in Java as part o
 
 ## Programs
 
-| No. | Program | Status |
-|------|----------|--------|
-| 1 | PrintArray.java [x]
-| 2 | SumOfElements.java [x]
-| 3 | AverageOfArray.java [x]
-| 4 | MaximumElement.java [x]
-| 5 | MinimumElement.java [x]
-| 6 | CountEvenOdd.java [x]
-| 7 | CountPositiveNegative.java [x]
-| 8 | ReverseArray.java [x]
-| 9 | CopyArray.java [x]
-| 10 | SecondLargest.java [x]
-| 11 | CheckSorted.java [x]
-| 12 | FrequencyOfElement.java [x]
+- [x] PrintArray.java
+- [x] SumOfElements.java
+- [x] AverageOfArray.java
+- [x] MaximumElement.java
+- [x] MinimumElement.java
+- [x] CountEvenOdd.java
+- [x] CountPositiveNegative.java
+- [x] ReverseArray.java
+- [x] CopyArray.java
+- [x] SecondLargest.java
+- [x] CheckSorted.java
+- [x] FrequencyOfElement.java
 
 ## Learning Outcomes
 
