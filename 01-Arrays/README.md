@@ -47,6 +47,7 @@ Arrays/
 - First Occurrence
 - Last Occurrence
 - Count Occurrences
+- Search insert position
 - Floor and Ceil
 
 ### 3. Manipulation
@@ -112,14 +113,14 @@ Arrays/
 - [x] FrequencyOfElement
 
 ### Searching
-- [ ] LinearSearch
-- [ ] BinarySearch
-- [ ] FirstOccurrence
-- [ ] LastOccurrence
-- [ ] CountOccurrences
-- [ ] SearchInsertPosition
-- [ ] FloorInSortedArray
-- [ ] CeilInSortedArray
+- [x] LinearSearch
+- [x] BinarySearch
+- [x] FirstOccurrence
+- [x] LastOccurrence
+- [x] CountOccurrences
+- [x] SearchInsertPosition
+- [x] FloorInSortedArray
+- [x] CeilInSortedArray
 
 ### Manipulation
 - [ ] InsertElement
