@@ -123,13 +123,14 @@ Arrays/
 - [x] CeilInSortedArray
 
 ### Manipulation
-- [ ] InsertElement
-- [ ] DeleteElement
-- [ ] LeftRotateByOne
-- [ ] RightRotateByOne
-- [ ] LeftRotateByK
-- [ ] RightRotateByK
-- [ ] MoveZeroesToEnd
+- [x] SearchElement
+- [x] InsertElement
+- [x] DeleteElement
+- [x] LeftRotateByOne
+- [x] RightRotateByOne
+- [x] LeftRotateByK
+- [x] RightRotateByK
+- [x] MoveZeroesToEnd
 - [ ] MoveNegativesToOneSide
 - [ ] RemoveDuplicatesSortedArray
 - [ ] MergeTwoArrays
