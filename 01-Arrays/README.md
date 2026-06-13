@@ -131,11 +131,11 @@ Arrays/
 - [x] LeftRotateByK
 - [x] RightRotateByK
 - [x] MoveZeroesToEnd
-- [ ] MoveNegativesToOneSide
-- [ ] RemoveDuplicatesSortedArray
-- [ ] MergeTwoArrays
-- [ ] UnionOfArrays
-- [ ] IntersectionOfArrays
+- [x] MoveNegativesToOneSide
+- [x] RemoveDuplicatesSortedArray
+- [x] MergeTwoArrays
+- [x] UnionOfArrays
+- [x] IntersectionOfArrays
 
 ### Prefix Sum
 - [ ] BuildPrefixSum
