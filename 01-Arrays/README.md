@@ -65,6 +65,7 @@ Arrays/
 - Range Sum Queries
 - Equilibrium Index
 - Pivot Index
+- Subarray Sum Equals K
 
 ### 5. Two Pointers
 - Pair Sum Problems
@@ -138,7 +139,7 @@ Arrays/
 - [x] IntersectionOfArrays
 
 ### Prefix Sum
-- [ ] BuildPrefixSum
+- [x] BuildPrefixSum
 - [ ] RangeSumQuery
 - [ ] RunningSum
 - [ ] EquilibriumIndex
