@@ -141,7 +141,7 @@ Arrays/
 ### Prefix Sum
 - [x] BuildPrefixSum
 - [ ] RangeSumQuery
-- [ ] RunningSum
+- [x] RunningSum
 - [ ] EquilibriumIndex
 - [ ] PivotIndex
 - [ ] SubarraySumEqualsK
