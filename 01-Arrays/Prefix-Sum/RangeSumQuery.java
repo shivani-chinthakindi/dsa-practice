@@ -18,7 +18,6 @@ public class RangeSumQuery {
     return prefix;
    }
     static void findSum(int[] v1, int q, int Queries[][]){
-        int n = v1.length;
         int[] v2 = v1.clone();
         Arrays.sort(v2);
         int[] prefixV1 = buildPrefSum(v1);
