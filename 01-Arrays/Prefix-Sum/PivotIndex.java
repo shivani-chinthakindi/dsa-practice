@@ -9,7 +9,7 @@ public class PivotIndex {
             if(leftSum == totalSum - leftSum - nums[i]){
                 return i;
             }
-            leftSum = nums[i]
+            leftSum = nums[i];
         }
         return -1;
     }
