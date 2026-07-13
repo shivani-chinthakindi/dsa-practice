@@ -140,19 +140,18 @@ Arrays/
 
 ### Prefix Sum
 - [x] BuildPrefixSum
-- [ ] RangeSumQuery
+- [x] RangeSumQuery
 - [x] RunningSum
 - [x] EquilibriumIndex
-- [ ] PivotIndex
-- [ ] SubarraySumEqualsK
+- [x] PivotIndex
+- [x] SubarraySumEqualsK
 
 ### Two Pointers
-- [ ] ReverseArrayUsingPointers
-- [ ] PairWithGivenSum
-- [ ] RemoveDuplicates
+- [x] ReverseArray
+- [x] PairWithGivenSum
+- [x] RemoveDuplicates
 - [ ] ContainerWithMostWater
 - [ ] SortedSquares
-- [ ] TwoSumSortedArray
 
 ### Sliding Window
 - [ ] MaxSumSubarraySizeK
