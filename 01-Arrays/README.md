@@ -150,8 +150,8 @@ Arrays/
 - [x] ReverseArray
 - [x] PairWithGivenSum
 - [x] RemoveDuplicates
-- [ ] ContainerWithMostWater
-- [ ] SortedSquares
+- [x] ContainerWithMostWater
+- [x] SortedSquares
 
 ### Sliding Window
 - [ ] MaxSumSubarraySizeK
