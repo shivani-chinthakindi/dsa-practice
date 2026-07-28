@@ -154,7 +154,7 @@ Arrays/
 - [x] SortedSquares
 
 ### Sliding Window
-- [ ] MaxSumSubarraySizeK
+- [x] MaxSumSubarraySizeK
 - [ ] FirstNegativeInWindow
 - [ ] MaximumAverageSubarray
 - [ ] LongestSubarrayWithGivenSum
