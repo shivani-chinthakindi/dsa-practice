@@ -159,7 +159,7 @@ Arrays/
 - [ ] MaximumAverageSubarray
 - [ ] LongestSubarrayWithGivenSum
 - [ ] CountDistinctInWindow
-- [ ] MaximumElementInWindow
+- [x] MaximumElementInWindow
 
 ### Kadane
 - [ ] MaximumSubarraySum
