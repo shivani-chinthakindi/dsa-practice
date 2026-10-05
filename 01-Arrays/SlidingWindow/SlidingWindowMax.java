@@ -18,8 +18,7 @@ public static void main(String[] args){
  int[] arr = {4, 3, 1, 2, -1, 0, 1, 3};
  int k = 3;
  int[] res = maxSW(arr, k);
- for(int i = 0; i < arr.length-k+1; i++){
+ for(int i = 0; i < arr.length-k+1; i++)
     System.out.print(res[i] + " ");
- }
 }
 }
