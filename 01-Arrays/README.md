@@ -155,7 +155,7 @@ Arrays/
 
 ### Sliding Window
 - [x] MaxSumSubarraySizeK
-- [ ] FirstNegativeInWindow
+- [x] FirstNegativeInWindow
 - [ ] MaximumAverageSubarray
 - [ ] LongestSubarrayWithGivenSum
 - [ ] CountDistinctInWindow
