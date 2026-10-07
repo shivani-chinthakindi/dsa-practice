@@ -15,8 +15,9 @@ public class FirstNegativeInEveryWindow {
         else {
             res.add(0);
         }
-        return res;
     }
+        return res;
+}
     public static void main(String[] args){
         int[] arr = {12, -1, -7, 8, -15, 30, 16};
         int k = 3;
