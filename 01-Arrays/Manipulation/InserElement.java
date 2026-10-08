@@ -9,7 +9,7 @@ public class InserElement {
         arr[0] = 2;
         arr[1] = 4;
         arr[2] = 1;
-        arr[3] = 8;
+        arr[3] = 7;
         arr[4] =5;
         int n = 5;
         int x = 10, pos = 2;
